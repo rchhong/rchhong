@@ -20,4 +20,4 @@
 * MongoDB
 
 ### :question: Want to know more?
-Check out my portfolio site [here!](https://rchhong.com/)
+Check out my portfolio site [here](https://rchhong.com/)!
