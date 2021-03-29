@@ -17,6 +17,7 @@
 * Java
 * C/C++
 * Python 3
+* R
 * MongoDB
 
 ### :question: Want to know more?
