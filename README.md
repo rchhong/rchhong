@@ -1,6 +1,6 @@
 ### :wave: About Me 
-* Junior studying Computer Science at UT Austin
-* Full-stack mobile and web app developer
+* Studying Computer Science at UT Austin
+* Interested in machine learning and full-stack development.
 * I enjoy Mechanical Keyboards, [Ricing](https://github.com/InfernalHydra/dotfiles), Video Games, and Music
 
 ### 👨‍💻 Sample Projects
@@ -8,17 +8,6 @@
 * [SnapPack](https://github.com/InfernalHydra/SnapPack) - A mobile app designed to help travelers pack
 * [Forward Tutoring](https://github.com/garrettgu10/forward-tutoring) - An online, free, and virtual tutoring platform.
 * and many more!  Check out my GitHub for more projects
-
-### :books: Skills
-* Javascript
-  * Express, Node, React, React Native
-* HTML/CSS
-* SASS
-* Java
-* C/C++
-* Python 3
-* R
-* MongoDB
 
 ### :question: Want to know more?
 Check out my portfolio site [here](https://rchhong.com/)!
