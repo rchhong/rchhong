@@ -1,5 +1,4 @@
 ### :wave: About Me 
-* Data Scientist
 * UT Austin Alumni
 * Interested in machine learning, cloud computing, and full-stack development.
 * My hobbies include Mechanical Keyboards, [Ricing](https://github.com/InfernalHydra/dotfiles), Video Games, and Music
